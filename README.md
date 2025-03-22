@@ -1,7 +1,7 @@
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling Grupo 9: 
 ### my_storytelling
-Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
+Creación de la historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
 Autores:  
@@ -10,24 +10,24 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Giovanni Ribeiro
+- :woman: Esther Gimeno Garcia
+- :woman: Mayte Luque
+- :woman: Marta Gual
 
 
-Proyecto (código): 
-URL (link) del proyecto en Github: 
+Proyecto - Grupo 9: https://github.com/giovannirpaiva/my_storytelling
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
 
 ## Resumen
-
+Manolo es un joven granjero que ha vivido toda la vida en el campo, pero le surge un problema familiar que provoca su traslado a la ciudad. Su sobrino está muy enganchado a las pantallas y eso le lleva a replantearse múltiples aspectos sobre la relación entre la sociedad y la tecnología. Es entonces cuando decide empezar una investigación con la que conseguir soluciones para desconectar a las personas de las pantallas y volverlas a conectar con el mundo exterior. Manolo, que es muy místico, tiene la certeza de que tiene el don de leer mentes y ser un experto sobre comportamiento humano. Su método es incitar a la gente de la ciudad a explorar la belleza y el espacio de su granja, porque de ese modo todos aquellos que fueran sometidos a ese cambio, recuperarían de nuevo la ilusión por hacer cosas y renacería su creatividad, dejando atrás esa desgana y sumisión provocada por la adicción a los aparatos tecnológicos.
 
 ### Personaje
 
