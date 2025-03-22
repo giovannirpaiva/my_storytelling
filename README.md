@@ -70,7 +70,7 @@ Manolo desde que fue a la ciudad quiso iniciar la investigación pero el agobio 
 
 ### Productos
 
-- Personaje: 
+- Image del [Personaje](img_Manolo.png)
 
 - Interactivo: https://h5p.org/node/1523365
 
@@ -96,7 +96,7 @@ Manolo desde que fue a la ciudad quiso iniciar la investigación pero el agobio 
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
 -->
 
-Febrero, 202X
+Marzo, 2025
 
 ![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
