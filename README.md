@@ -32,7 +32,7 @@ Manolo es un joven granjero que ha vivido toda la vida en el campo, pero le surg
 ### Personajes
 
 ![](Presentación_Manolo.jpg)
-![](Presentación_Enzo.jpg)
+![](Presentacion_Enzo.jpg)
 
 **Nombre:** Manolo Pérez García 
 
